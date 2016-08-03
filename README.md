@@ -21,7 +21,7 @@ While this newsletter setup is fully functional, for production use it is strong
 
 1. Download ProcessWire and upload to your server.
 
-2. Upload this "ProcessWire Newsletter Tutorial" site profile ("site-pwnl" directory) to your PW install root on server.
+2. Upload and extract [ProcessWire Newsletter Tutorial](site-pwnl.zip) site profile to your PW install root on server.
 
 1. Install ProcessWire (visit your site online to start) and select the "ProcessWire Newsletter Tutorial" site profile from the available site profiles dropdown.
 
